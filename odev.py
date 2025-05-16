@@ -30,11 +30,3 @@ a=input("kelime: ")
 a=list(a)
 a=a[::-1]
 print(a)
-
-
-
-a = input("kelime: ")
-b = []
-for i in a:
-    b = i + b
-print(b)
