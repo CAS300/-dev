@@ -1,4 +1,4 @@
-sayi_1=int(input("ilk sayıyı giriniz: "))
+sayi_1=int(input("ilk sayıyı giriniz: "))          
 sayi_2=int(input("ikinci sayıyı giriniz: "))
 toplam=(sayi_1+sayi_2)
 çıkarma=(sayi_1-sayi_2)
